@@ -1,0 +1,2162 @@
+[
+  {
+    "codigo": "75004699",
+    "nombre": "coca taquera",
+    "precio": 16.0
+  },
+  {
+    "codigo": "7501055371075",
+    "nombre": "sidral taquero",
+    "precio": 15.0
+  },
+  {
+    "codigo": "75007614",
+    "nombre": "coca 600",
+    "precio": 22.0
+  },
+  {
+    "codigo": "7501055305339",
+    "nombre": "coca light 600",
+    "precio": 20.0
+  },
+  {
+    "codigo": "7501055320639",
+    "nombre": "coca zero 600",
+    "precio": 18.0
+  },
+  {
+    "codigo": "7501055313532",
+    "nombre": "coca 1.75",
+    "precio": 36.0
+  },
+  {
+    "codigo": "7501055371655",
+    "nombre": "coca 1.35",
+    "precio": 30.0
+  },
+  {
+    "codigo": "7501055305360",
+    "nombre": "coca light 2L",
+    "precio": 45.0
+  },
+  {
+    "codigo": "7501055305346",
+    "nombre": "coca light 1L",
+    "precio": 30.0
+  },
+  {
+    "codigo": "7501055328345",
+    "nombre": "coca 400",
+    "precio": 16.0
+  },
+  {
+    "codigo": "7501055355310",
+    "nombre": "coca 250",
+    "precio": 12.0
+  },
+  {
+    "codigo": "7501055354672",
+    "nombre": "coca 235",
+    "precio": 16.0
+  },
+  {
+    "codigo": "7501055300952",
+    "nombre": "coca 1.25 ret",
+    "precio": 27.0
+  },
+  {
+    "codigo": "7501055310227",
+    "nombre": "coca  2.5 ret",
+    "precio": 35.0
+  },
+  {
+    "codigo": "7501055313068",
+    "nombre": "coca 3L ret",
+    "precio": 40.0
+  },
+  {
+    "codigo": "7501055376681",
+    "nombre": "ameyal 2L",
+    "precio": 25.0
+  },
+  {
+    "codigo": "7501055340002",
+    "nombre": "sidral 2L",
+    "precio": 28.0
+  },
+  {
+    "codigo": "7501055364077",
+    "nombre": "mundet dur 2L",
+    "precio": 28.0
+  },
+  {
+    "codigo": "7501055367412",
+    "nombre": "mundet pera 2L",
+    "precio": 28.0
+  },
+  {
+    "codigo": "7501055304691",
+    "nombre": "delaware 2L",
+    "precio": 25.0
+  },
+  {
+    "codigo": "7501055305650",
+    "nombre": "sprite 2L",
+    "precio": 29.0
+  },
+  {
+    "codigo": "7501055329946",
+    "nombre": "yoli 2L",
+    "precio": 29.0
+  },
+  {
+    "codigo": "7501055320158",
+    "nombre": "fresca sa 2L",
+    "precio": 29.0
+  },
+  {
+    "codigo": "7501055379491",
+    "nombre": "valle fizz 2L nara",
+    "precio": 29.0
+  },
+  {
+    "codigo": "7501055339983",
+    "nombre": "sidral 600",
+    "precio": 19.0
+  },
+  {
+    "codigo": "7501055308330",
+    "nombre": "senzao 600",
+    "precio": 20.0
+  },
+  {
+    "codigo": "7501055345014",
+    "nombre": "prisco m 600",
+    "precio": 20.0
+  },
+  {
+    "codigo": "7501055305629",
+    "nombre": "sprite 600",
+    "precio": 20.0
+  },
+  {
+    "codigo": "7501055329915",
+    "nombre": "yoli 600",
+    "precio": 20.0
+  },
+  {
+    "codigo": "7501055303786",
+    "nombre": "fresca 600",
+    "precio": 20.0
+  },
+  {
+    "codigo": "7501055376674",
+    "nombre": "ameyal 600",
+    "precio": 20.0
+  },
+  {
+    "codigo": "7501055304653",
+    "nombre": "delaware 600",
+    "precio": 20.0
+  },
+  {
+    "codigo": "7501055303779",
+    "nombre": "fanta 600",
+    "precio": 20.0
+  },
+  {
+    "codigo": "7501055305230",
+    "nombre": "fanta fresa 600",
+    "precio": 20.0
+  },
+  {
+    "codigo": "7501055379484",
+    "nombre": "valle fizz nar 600",
+    "precio": 20.0
+  },
+  {
+    "codigo": "7501055379521",
+    "nombre": "valle fizz lim 600",
+    "precio": 20.0
+  },
+  {
+    "codigo": "7501055304745",
+    "nombre": "coca 3l no ret",
+    "precio": 44.0
+  },
+  {
+    "codigo": "7501055329465",
+    "nombre": "coca zero 3l",
+    "precio": 42.0
+  },
+  {
+    "codigo": "7501055304790",
+    "nombre": "fanta 3l",
+    "precio": 40.0
+  },
+  {
+    "codigo": "7501055304813",
+    "nombre": "fresca 3l",
+    "precio": 40.0
+  },
+  {
+    "codigo": "7501055340422",
+    "nombre": "sidral 3l",
+    "precio": 40.0
+  },
+  {
+    "codigo": "7501055330812",
+    "nombre": "valle frut 3l",
+    "precio": 40.0
+  },
+  {
+    "codigo": "7501055304806",
+    "nombre": "sprite 3l",
+    "precio": 40.0
+  },
+  {
+    "codigo": "7500326103346",
+    "nombre": "sangría señorial 2.6",
+    "precio": 48.0
+  },
+  {
+    "codigo": "7501055361540",
+    "nombre": "coca 355 lata",
+    "precio": 22.0
+  },
+  {
+    "codigo": "7501055365395",
+    "nombre": "coca light 355 lata",
+    "precio": 22.0
+  },
+  {
+    "codigo": "070847896753",
+    "nombre": "monster",
+    "precio": 38.0
+  },
+  {
+    "codigo": "032239052000",
+    "nombre": "generosa mgo",
+    "precio": 22.0
+  },
+  {
+    "codigo": "032239052017",
+    "nombre": "generosa duraz",
+    "precio": 22.0
+  },
+  {
+    "codigo": "032239052024",
+    "nombre": "generosa mzana",
+    "precio": 20.0
+  },
+  {
+    "codigo": "7501055333844",
+    "nombre": "valle mgo 1l",
+    "precio": 31.0
+  },
+  {
+    "codigo": "7501055381463",
+    "nombre": "valle mgo 1l",
+    "precio": 31.0
+  },
+  {
+    "codigo": "7501055333868",
+    "nombre": "valle j mzna 1l",
+    "precio": 31.0
+  },
+  {
+    "codigo": "7501055330683",
+    "nombre": "valle frut 600",
+    "precio": 19.0
+  },
+  {
+    "codigo": "7501055317653",
+    "nombre": "powerade mora 1l",
+    "precio": 32.0
+  },
+  {
+    "codigo": "7501055317660",
+    "nombre": "powerade ponche 1l",
+    "precio": 32.0
+  },
+  {
+    "codigo": "7501055329267",
+    "nombre": "powerade mora 500",
+    "precio": 23.0
+  },
+  {
+    "codigo": "7501055329298",
+    "nombre": "powerade ponche 500",
+    "precio": 23.0
+  },
+  {
+    "codigo": "7501031310012",
+    "nombre": "pepsi 600",
+    "precio": 14.0
+  },
+  {
+    "codigo": "7501071120183",
+    "nombre": "squirt 600",
+    "precio": 16.0
+  },
+  {
+    "codigo": "758104000159",
+    "nombre": "bonafont 1.5",
+    "precio": 16.0
+  },
+  {
+    "codigo": "758104100422",
+    "nombre": "bonafont 1L",
+    "precio": 14.0
+  },
+  {
+    "codigo": "7501055378319",
+    "nombre": "ciel 1.5",
+    "precio": 15.0
+  },
+  {
+    "codigo": "7501055310883",
+    "nombre": "ciel 1L",
+    "precio": 13.0
+  },
+  {
+    "codigo": "7501031310098",
+    "nombre": "pepsi 3l",
+    "precio": 33.0
+  },
+  {
+    "codigo": "744886405053",
+    "nombre": "jarro  tuti",
+    "precio": 22.0
+  },
+  {
+    "codigo": "744886365050",
+    "nombre": "jarro tam",
+    "precio": 22.0
+  },
+  {
+    "codigo": "7501073839892",
+    "nombre": "peña lim 2l",
+    "precio": 29.0
+  },
+  {
+    "codigo": "7501073839861",
+    "nombre": "peña naran 2l",
+    "precio": 29.0
+  },
+  {
+    "codigo": "7501073841246",
+    "nombre": "peña fres 2l",
+    "precio": 29.0
+  },
+  {
+    "codigo": "7501073842847",
+    "nombre": "peñpa mgo 2l",
+    "precio": 29.0
+  },
+  {
+    "codigo": "7501073800908",
+    "nombre": "peña nat 2l",
+    "precio": 29.0
+  },
+  {
+    "codigo": "7501073830028",
+    "nombre": "peña nat 1l",
+    "precio": 23.0
+  },
+  {
+    "codigo": "7501073839212",
+    "nombre": "peña twist 1l",
+    "precio": 23.0
+  },
+  {
+    "codigo": "7503018023953",
+    "nombre": "sangía sa 600",
+    "precio": 18.0
+  },
+  {
+    "codigo": "7501198350104",
+    "nombre": "cnada dry 1l",
+    "precio": 23.0
+  },
+  {
+    "codigo": "744607008204",
+    "nombre": "daniels gingerale 473",
+    "precio": 45.0
+  },
+  {
+    "codigo": "744607008358",
+    "nombre": "daniels mineral 473",
+    "precio": 45.0
+  },
+  {
+    "codigo": "019836202045",
+    "nombre": "lulu frambuesa 3l",
+    "precio": 40.0
+  },
+  {
+    "codigo": "019836202021",
+    "nombre": "lulu lim 3l",
+    "precio": 40.0
+  },
+  {
+    "codigo": "019836202052",
+    "nombre": "lulu mzna3l",
+    "precio": 40.0
+  },
+  {
+    "codigo": "019836202076",
+    "nombre": "lulu piña 3l",
+    "precio": 40.0
+  },
+  {
+    "codigo": "7501071120305",
+    "nombre": "squirt 3l",
+    "precio": 40.0
+  },
+  {
+    "codigo": "7500326103360",
+    "nombre": "sangría señorial 600",
+    "precio": 20.0
+  },
+  {
+    "codigo": "7501073841925",
+    "nombre": "peña piña 600",
+    "precio": 19.0
+  },
+  {
+    "codigo": "7501073839854",
+    "nombre": "peña naran 600",
+    "precio": 19.0
+  },
+  {
+    "codigo": "7501073841253",
+    "nombre": "peña fres 600",
+    "precio": 19.0
+  },
+  {
+    "codigo": "7501073830509",
+    "nombre": "peña nat 600",
+    "precio": 19.0
+  },
+  {
+    "codigo": "7501073831469",
+    "nombre": "peña twist 600",
+    "precio": 19.0
+  },
+  {
+    "codigo": "7501125174797",
+    "nombre": "electrolit mora",
+    "precio": 25.0
+  },
+  {
+    "codigo": "7501125149221",
+    "nombre": "electrolit fresa",
+    "precio": 25.0
+  },
+  {
+    "codigo": "7501125104688",
+    "nombre": "electrolit mzana",
+    "precio": 25.0
+  },
+  {
+    "codigo": "7501125144851",
+    "nombre": "electrolit uva",
+    "precio": 25.0
+  },
+  {
+    "codigo": "7501125104268",
+    "nombre": "electrolit fresa",
+    "precio": 25.0
+  },
+  {
+    "codigo": "7503027753629",
+    "nombre": "volt yelow",
+    "precio": 20.0
+  },
+  {
+    "codigo": "7503027753650",
+    "nombre": "volt blue",
+    "precio": 20.0
+  },
+  {
+    "codigo": "5901234123457",
+    "nombre": "morarca sabores 1l",
+    "precio": 28.0
+  },
+  {
+    "codigo": "7503006897016",
+    "nombre": "red cola 600",
+    "precio": 14.0
+  },
+  {
+    "codigo": "021136010541",
+    "nombre": "topochico 600",
+    "precio": 21.0
+  },
+  {
+    "codigo": "758104001712",
+    "nombre": "bonfont 600",
+    "precio": 11.0
+  },
+  {
+    "codigo": "7501064198519",
+    "nombre": "modelo esp 1l",
+    "precio": 50.0
+  },
+  {
+    "codigo": "7503024460070",
+    "nombre": "modelo negra 1l",
+    "precio": 50.0
+  },
+  {
+    "codigo": "7501064194146",
+    "nombre": "victoria 710",
+    "precio": 40.0
+  },
+  {
+    "codigo": "7503024460889",
+    "nombre": "modelo esp 710",
+    "precio": 40.0
+  },
+  {
+    "codigo": "7503034941163",
+    "nombre": "modelo negra 473",
+    "precio": 30.0
+  },
+  {
+    "codigo": "7501064194139",
+    "nombre": "victoria 473",
+    "precio": 28.0
+  },
+  {
+    "codigo": "7501064191886",
+    "nombre": "modelo esp",
+    "precio": 28.0
+  },
+  {
+    "codigo": "7501064193859",
+    "nombre": "corona 473",
+    "precio": 27.0
+  },
+  {
+    "codigo": "7509546680163",
+    "nombre": "suavitel complete sol",
+    "precio": 28.0
+  },
+  {
+    "codigo": "7509546680132",
+    "nombre": "suavitel complete prima",
+    "precio": 28.0
+  },
+  {
+    "codigo": "7509546680156",
+    "nombre": "suavitel complete acqua",
+    "precio": 28.0
+  },
+  {
+    "codigo": "7509546043579",
+    "nombre": "suavitel baby",
+    "precio": 32.0
+  },
+  {
+    "codigo": "7500435125987",
+    "nombre": "downy passion",
+    "precio": 36.0
+  },
+  {
+    "codigo": "7501058715364",
+    "nombre": "vanish 420",
+    "precio": 32.0
+  },
+  {
+    "codigo": "7509546045689",
+    "nombre": "vel rosita 450",
+    "precio": 42.0
+  },
+  {
+    "codigo": "7500435139977",
+    "nombre": "ariel concentrado 400",
+    "precio": 22.0
+  },
+  {
+    "codigo": "7509546678023",
+    "nombre": "suavitel rellena 300",
+    "precio": 20.0
+  },
+  {
+    "codigo": "7501199413006",
+    "nombre": "mas color 415",
+    "precio": 25.0
+  },
+  {
+    "codigo": "7501026028007",
+    "nombre": "foca líquido 1l",
+    "precio": 40.0
+  },
+  {
+    "codigo": "7503002163023",
+    "nombre": "gel xtreme",
+    "precio": 34.0
+  },
+  {
+    "codigo": "7506192506601",
+    "nombre": "gel ego",
+    "precio": 32.0
+  },
+  {
+    "codigo": "7509546007083",
+    "nombre": "colgate total 50",
+    "precio": 25.0
+  },
+  {
+    "codigo": "7506306245990",
+    "nombre": "zest aqua",
+    "precio": 20.0
+  },
+  {
+    "codigo": "7509546075013",
+    "nombre": "palmolive neutro",
+    "precio": 20.0
+  },
+  {
+    "codigo": "7501026005374",
+    "nombre": "zote blanco 400",
+    "precio": 25.0
+  },
+  {
+    "codigo": "7503008370340",
+    "nombre": "funfun mediana",
+    "precio": 16.0
+  },
+  {
+    "codigo": "7503008370364",
+    "nombre": "funfun chica",
+    "precio": 16.0
+  },
+  {
+    "codigo": "7501019006623",
+    "nombre": "saba nocturna",
+    "precio": 25.0
+  },
+  {
+    "codigo": "7501943494220",
+    "nombre": "kotex u nocturna",
+    "precio": 30.0
+  },
+  {
+    "codigo": "7501943421141",
+    "nombre": "kotex n nocturna",
+    "precio": 25.0
+  },
+  {
+    "codigo": "7501943418509",
+    "nombre": "kotex noctura",
+    "precio": 22.0
+  },
+  {
+    "codigo": "7501019030352",
+    "nombre": "saba confort",
+    "precio": 24.0
+  },
+  {
+    "codigo": "7506309895208",
+    "nombre": "naturella alas",
+    "precio": 19.0
+  },
+  {
+    "codigo": "7501023118374",
+    "nombre": "scotch brite",
+    "precio": 19.0
+  },
+  {
+    "codigo": "7501026004605",
+    "nombre": "roma 1kg",
+    "precio": 42.0
+  },
+  {
+    "codigo": "7501026004612",
+    "nombre": "roma 500g",
+    "precio": 22.0
+  },
+  {
+    "codigo": "7501026026560",
+    "nombre": "foca 500g",
+    "precio": 24.0
+  },
+  {
+    "codigo": "7501026027543",
+    "nombre": "blanca nieves 500",
+    "precio": 22.0
+  },
+  {
+    "codigo": "7501007445557",
+    "nombre": "ace 500g",
+    "precio": 25.0
+  },
+  {
+    "codigo": "7501026004629",
+    "nombre": "roma 250g",
+    "precio": 13.0
+  },
+  {
+    "codigo": "7501001130664",
+    "nombre": "salvo 250",
+    "precio": 21.0
+  },
+  {
+    "codigo": "7501025411992",
+    "nombre": "cloralex mascotas",
+    "precio": 30.0
+  },
+  {
+    "codigo": "75000615",
+    "nombre": "cloralex",
+    "precio": 19.0
+  },
+  {
+    "codigo": "7501025405151",
+    "nombre": "cloralex gel",
+    "precio": 21.0
+  },
+  {
+    "codigo": "7501071900129",
+    "nombre": "clorox",
+    "precio": 18.0
+  },
+  {
+    "codigo": "7501025403485",
+    "nombre": "pinol 1l",
+    "precio": 29.0
+  },
+  {
+    "codigo": "7501025414108",
+    "nombre": "ensueño max sn",
+    "precio": 29.0
+  },
+  {
+    "codigo": "7501035910034",
+    "nombre": "fabuloso lavanda",
+    "precio": 34.0
+  },
+  {
+    "codigo": "7509546008295",
+    "nombre": "fabuloso frutas",
+    "precio": 34.0
+  },
+  {
+    "codigo": "7509546008202",
+    "nombre": "fabuloso naranja",
+    "precio": 34.0
+  },
+  {
+    "codigo": "7501035910041",
+    "nombre": "fabuloso fresco",
+    "precio": 34.0
+  },
+  {
+    "codigo": "7501055900039",
+    "nombre": "alpura clásica 1l",
+    "precio": 31.0
+  },
+  {
+    "codigo": "7501055901425",
+    "nombre": "alpura deslactosada 1l",
+    "precio": 32.0
+  },
+  {
+    "codigo": "7501295600126",
+    "nombre": "santa clara entera",
+    "precio": 32.0
+  },
+  {
+    "codigo": "7501295600157",
+    "nombre": "santa clara deslac",
+    "precio": 34.0
+  },
+  {
+    "codigo": "7501020540666",
+    "nombre": "nitrileche 1l",
+    "precio": 22.0
+  },
+  {
+    "codigo": "097339000061",
+    "nombre": "valentina negra 370",
+    "precio": 19.0
+  },
+  {
+    "codigo": "097339000054",
+    "nombre": "valentina 370",
+    "precio": 19.0
+  },
+  {
+    "codigo": "633148100556",
+    "nombre": "tajín 400",
+    "precio": 88.0
+  },
+  {
+    "codigo": "7501021900063",
+    "nombre": "sal grano",
+    "precio": 22.0
+  },
+  {
+    "codigo": "7501058743121",
+    "nombre": "nugget negra",
+    "precio": 20.0
+  },
+  {
+    "codigo": "7509546017143",
+    "nombre": "axion 400",
+    "precio": 25.0
+  },
+  {
+    "codigo": "7500435108256",
+    "nombre": "salvo 500",
+    "precio": 34.0
+  },
+  {
+    "codigo": "7506195196984",
+    "nombre": "salvo 300",
+    "precio": 25.0
+  },
+  {
+    "codigo": "75003173",
+    "nombre": "boing naran 500",
+    "precio": 18.0
+  },
+  {
+    "codigo": "75003159",
+    "nombre": "boing mzna 500",
+    "precio": 18.0
+  },
+  {
+    "codigo": "75003104",
+    "nombre": "boing mgo 500",
+    "precio": 18.0
+  },
+  {
+    "codigo": "75003135",
+    "nombre": "boing guaya 500",
+    "precio": 18.0
+  },
+  {
+    "codigo": "75001797",
+    "nombre": "boing mzna 250",
+    "precio": 11.0
+  },
+  {
+    "codigo": "75001834",
+    "nombre": "boing uva 250",
+    "precio": 11.0
+  },
+  {
+    "codigo": "75001773",
+    "nombre": "boing guaya 250",
+    "precio": 11.0
+  },
+  {
+    "codigo": "75001766",
+    "nombre": "boing fresa 250",
+    "precio": 11.0
+  },
+  {
+    "codigo": "75001759",
+    "nombre": "boing mgo 250",
+    "precio": 11.0
+  },
+  {
+    "codigo": "75001810",
+    "nombre": "boing piña 250",
+    "precio": 11.0
+  },
+  {
+    "codigo": "7501039400838",
+    "nombre": "boing mzna 1l",
+    "precio": 28.0
+  },
+  {
+    "codigo": "7501039400845",
+    "nombre": "boing fresa 1l",
+    "precio": 28.0
+  },
+  {
+    "codigo": "7501039400814",
+    "nombre": "boing guaya 1l",
+    "precio": 28.0
+  },
+  {
+    "codigo": "7501039400807",
+    "nombre": "boing mgo 1l",
+    "precio": 28.0
+  },
+  {
+    "codigo": "7501039400821",
+    "nombre": "boing uva 1l",
+    "precio": 28.0
+  },
+  {
+    "codigo": "7501039400852",
+    "nombre": "boing piña 1l",
+    "precio": 28.0
+  },
+  {
+    "codigo": "7501039400876",
+    "nombre": "boing  naran 1l",
+    "precio": 28.0
+  },
+  {
+    "codigo": "7501035911567",
+    "nombre": "colgate mpa 50",
+    "precio": 20.0
+  },
+  {
+    "codigo": "7509546009179",
+    "nombre": "colgate mpa 75",
+    "precio": 29.0
+  },
+  {
+    "codigo": "7501035911369",
+    "nombre": "colgate total 100",
+    "precio": 55.0
+  },
+  {
+    "codigo": "7501035911017",
+    "nombre": "colgate mpa 150",
+    "precio": 57.0
+  },
+  {
+    "codigo": "7501039122846",
+    "nombre": "nutrioli 800ml",
+    "precio": 46.0
+  },
+  {
+    "codigo": "7501039121993",
+    "nombre": "nutrioli 400ml",
+    "precio": 23.0
+  },
+  {
+    "codigo": "75005443",
+    "nombre": "123 500ml",
+    "precio": 26.0
+  },
+  {
+    "codigo": "7501003105929",
+    "nombre": "herdez verde 240",
+    "precio": 25.0
+  },
+  {
+    "codigo": "064144030323",
+    "nombre": "pam 170",
+    "precio": 80.0
+  },
+  {
+    "codigo": "7501003127600",
+    "nombre": "herdez verd 240",
+    "precio": 25.0
+  },
+  {
+    "codigo": "7501003100122",
+    "nombre": "herdez habanero 240",
+    "precio": 25.0
+  },
+  {
+    "codigo": "7501003150233",
+    "nombre": "mole doña maría 235",
+    "precio": 50.0
+  },
+  {
+    "codigo": "7501011312623",
+    "nombre": "campbells champ 420",
+    "precio": 50.0
+  },
+  {
+    "codigo": "7501003123237",
+    "nombre": "herdez champiñones 380",
+    "precio": 50.0
+  },
+  {
+    "codigo": "7501003124241",
+    "nombre": "herdez eloteb 400",
+    "precio": 22.0
+  },
+  {
+    "codigo": "7501003123213",
+    "nombre": "herdez champiñones 186",
+    "precio": 29.0
+  },
+  {
+    "codigo": "7506475102520",
+    "nombre": "gerber res 100",
+    "precio": 15.0
+  },
+  {
+    "codigo": "7506475102421",
+    "nombre": "gerber mzna 100",
+    "precio": 15.0
+  },
+  {
+    "codigo": "7506475102483",
+    "nombre": "gerber ciruela 100",
+    "precio": 15.0
+  },
+  {
+    "codigo": "7506475102469",
+    "nombre": "gerber mgo 100",
+    "precio": 15.0
+  },
+  {
+    "codigo": "7506475102476",
+    "nombre": "gerber drzno 100",
+    "precio": 15.0
+  },
+  {
+    "codigo": "7506475102452",
+    "nombre": "gerber pera 100",
+    "precio": 15.0
+  },
+  {
+    "codigo": "7506475102490",
+    "nombre": "gerber mixtas 100",
+    "precio": 15.0
+  },
+  {
+    "codigo": "7506475119757",
+    "nombre": "gerber tropicales 100",
+    "precio": 15.0
+  },
+  {
+    "codigo": "87437",
+    "nombre": "gelatina gary sabores",
+    "precio": 11.0
+  },
+  {
+    "codigo": "7503003924517",
+    "nombre": "veladora vaso",
+    "precio": 30.0
+  },
+  {
+    "codigo": "7502012640050",
+    "nombre": "veladora ch",
+    "precio": 14.0
+  },
+  {
+    "codigo": "7501058628466",
+    "nombre": "nescafé decaf 40",
+    "precio": 42.0
+  },
+  {
+    "codigo": "7501000911783",
+    "nombre": "nescafé clásico 14",
+    "precio": 15.0
+  },
+  {
+    "codigo": "7501071307782",
+    "nombre": "isadora bayos 430",
+    "precio": 19.0
+  },
+  {
+    "codigo": "7501003184078",
+    "nombre": "miel carlota 300",
+    "precio": 70.0
+  },
+  {
+    "codigo": "7501071301629",
+    "nombre": "puré papa vv 160",
+    "precio": 40.0
+  },
+  {
+    "codigo": "7501005110242",
+    "nombre": "maizena 95",
+    "precio": 18.0
+  },
+  {
+    "codigo": "7501069210759",
+    "nombre": "h arroz tres estrellas 500",
+    "precio": 26.0
+  },
+  {
+    "codigo": "7501069210766",
+    "nombre": "h arroz tres estrellas 250",
+    "precio": 19.0
+  },
+  {
+    "codigo": "7501003393050",
+    "nombre": "buffalo 150",
+    "precio": 17.0
+  },
+  {
+    "codigo": "7501058611062",
+    "nombre": "carnation 360",
+    "precio": 26.0
+  },
+  {
+    "codigo": "7501001600426",
+    "nombre": "nedia crema 225",
+    "precio": 26.0
+  },
+  {
+    "codigo": "7501059211209",
+    "nombre": "lechera 100",
+    "precio": 14.0
+  },
+  {
+    "codigo": "7502223775688",
+    "nombre": "karo mapple 255",
+    "precio": 52.0
+  },
+  {
+    "codigo": "789742895050",
+    "nombre": "nutella 350",
+    "precio": 105.0
+  },
+  {
+    "codigo": "7501003300300",
+    "nombre": "mcormic frsa 270",
+    "precio": 35.0
+  },
+  {
+    "codigo": "7501003336620",
+    "nombre": "mcormic framb 270",
+    "precio": 35.0
+  },
+  {
+    "codigo": "7501005180306",
+    "nombre": "knorr ind",
+    "precio": 7.0
+  },
+  {
+    "codigo": "7506306307209",
+    "nombre": "arroz knorr 155",
+    "precio": 30.0
+  },
+  {
+    "codigo": "7506192505802",
+    "nombre": "rikopollo ind",
+    "precio": 5.0
+  },
+  {
+    "codigo": "7506205807589",
+    "nombre": "chocomilk 160",
+    "precio": 36.0
+  },
+  {
+    "codigo": "7506205815867",
+    "nombre": "chocomilk 18",
+    "precio": 8.0
+  },
+  {
+    "codigo": "7501052410142",
+    "nombre": "legal 28",
+    "precio": 10.0
+  },
+  {
+    "codigo": "79937",
+    "nombre": "maruchan varios",
+    "precio": 20.0
+  },
+  {
+    "codigo": "7501017005611",
+    "nombre": "costeña puré 210",
+    "precio": 11.0
+  },
+  {
+    "codigo": "7501003303387",
+    "nombre": "mcormic mayonesa 468",
+    "precio": 60.0
+  },
+  {
+    "codigo": "7501003303240",
+    "nombre": "mcormic mayonesa 228",
+    "precio": 36.0
+  },
+  {
+    "codigo": "7501003300652",
+    "nombre": "mcormic mayonesa 105",
+    "precio": 21.0
+  },
+  {
+    "codigo": "7501017004515",
+    "nombre": "costeña elote 410",
+    "precio": 22.0
+  },
+  {
+    "codigo": "7501045403915",
+    "nombre": "atún agua 133",
+    "precio": 25.0
+  },
+  {
+    "codigo": "7501045403908",
+    "nombre": "atún aceite 133",
+    "precio": 25.0
+  },
+  {
+    "codigo": "7501007829500",
+    "nombre": "sardina calmex 425",
+    "precio": 45.0
+  },
+  {
+    "codigo": "7501005180504",
+    "nombre": "knorr tomate ind",
+    "precio": 7.0
+  },
+  {
+    "codigo": "7501041941930",
+    "nombre": "saldeuvas ",
+    "precio": 6.0
+  },
+  {
+    "codigo": "7501017004157",
+    "nombre": "costeña e verd 410",
+    "precio": 22.0
+  },
+  {
+    "codigo": "7501017004027",
+    "nombre": "costeña rajas 380",
+    "precio": 34.0
+  },
+  {
+    "codigo": "7501017004003",
+    "nombre": "costeña jalapeños 380",
+    "precio": 34.0
+  },
+  {
+    "codigo": "7501017005000",
+    "nombre": "costeña jalapeños 220",
+    "precio": 21.0
+  },
+  {
+    "codigo": "7501017005024",
+    "nombre": "costeña rajas 220",
+    "precio": 21.0
+  },
+  {
+    "codigo": "7501017005765",
+    "nombre": "costeña jalap picado 220",
+    "precio": 21.0
+  },
+  {
+    "codigo": "7501017005031",
+    "nombre": "costeña chipotles 220",
+    "precio": 35.0
+  },
+  {
+    "codigo": "7501017006021",
+    "nombre": "costeña chipotles 105",
+    "precio": 20.0
+  },
+  {
+    "codigo": "7501017006014",
+    "nombre": "costeña rajas 105",
+    "precio": 12.0
+  },
+  {
+    "codigo": "7501017005345",
+    "nombre": "costeña verduras 220",
+    "precio": 14.0
+  },
+  {
+    "codigo": "7501017005321",
+    "nombre": "costeña elotes 220",
+    "precio": 14.0
+  },
+  {
+    "codigo": "10516",
+    "nombre": "la moderna sopas",
+    "precio": 10.0
+  },
+  {
+    "codigo": "7501017003167",
+    "nombre": "costeña duraznos a 820",
+    "precio": 70.0
+  },
+  {
+    "codigo": "7501052477213",
+    "nombre": "clemente piña 800",
+    "precio": 64.0
+  },
+  {
+    "codigo": "7501069210179",
+    "nombre": "hot cakes 500",
+    "precio": 28.0
+  },
+  {
+    "codigo": "7501069210346",
+    "nombre": "hot cackes 1.1",
+    "precio": 46.0
+  },
+  {
+    "codigo": "7501018315818",
+    "nombre": "moderna harina t 1",
+    "precio": 24.0
+  },
+  {
+    "codigo": "7501586300018",
+    "nombre": "minsa 1",
+    "precio": 22.0
+  },
+  {
+    "codigo": "7502208800077",
+    "nombre": "vaso reyma 50p",
+    "precio": 36.0
+  },
+  {
+    "codigo": "7501431204799",
+    "nombre": "vaso fun fun 50p",
+    "precio": 42.0
+  },
+  {
+    "codigo": "7501083100029",
+    "nombre": "vinagre bco 750",
+    "precio": 18.0
+  },
+  {
+    "codigo": "7501083100036",
+    "nombre": "vinagre mzana 750",
+    "precio": 22.0
+  },
+  {
+    "codigo": "013000001243",
+    "nombre": "heinz 397",
+    "precio": 34.0
+  },
+  {
+    "codigo": "75053901",
+    "nombre": "del monte 320",
+    "precio": 20.0
+  },
+  {
+    "codigo": "7501052472195",
+    "nombre": "clemente catsup 220",
+    "precio": 15.0
+  },
+  {
+    "codigo": "7501003308559",
+    "nombre": "mcormic chip mayo ",
+    "precio": 31.0
+  },
+  {
+    "codigo": "95857",
+    "nombre": "costeña frijoles 560",
+    "precio": 20.0
+  },
+  {
+    "codigo": "7501102610003",
+    "nombre": "kola loka ",
+    "precio": 30.0
+  },
+  {
+    "codigo": "7591066701015",
+    "nombre": "rastrillo shick",
+    "precio": 20.0
+  },
+  {
+    "codigo": "793573950079",
+    "nombre": "red cola 3l",
+    "precio": 31.0
+  },
+  {
+    "codigo": "7501020561906",
+    "nombre": "crema lala 417",
+    "precio": 43.0
+  },
+  {
+    "codigo": "7502261270466",
+    "nombre": "tajúa",
+    "precio": 10.0
+  },
+  {
+    "codigo": "04949",
+    "nombre": "ricolino variedad",
+    "precio": 17.0
+  },
+  {
+    "codigo": "7501119500366",
+    "nombre": "microdyn",
+    "precio": 34.0
+  },
+  {
+    "codigo": "730399012796",
+    "nombre": "prispas",
+    "precio": 18.0
+  },
+  {
+    "codigo": "88996",
+    "nombre": "tang sabores",
+    "precio": 7.0
+  },
+  {
+    "codigo": "7503040863091",
+    "nombre": "veladora azul",
+    "precio": 22.0
+  },
+  {
+    "codigo": "7506425606047",
+    "nombre": "petalo 6r",
+    "precio": 60.0
+  },
+  {
+    "codigo": "7502247338586",
+    "nombre": "big rol 6r",
+    "precio": 55.0
+  },
+  {
+    "codigo": "041333666426",
+    "nombre": "duracell AA",
+    "precio": 25.0
+  },
+  {
+    "codigo": "041333428482",
+    "nombre": "duracell AAA",
+    "precio": 25.0
+  },
+  {
+    "codigo": "8766",
+    "nombre": "especias",
+    "precio": 3.0
+  },
+  {
+    "codigo": "7501006559019",
+    "nombre": "act2 mant",
+    "precio": 18.0
+  },
+  {
+    "codigo": "7501020556001",
+    "nombre": "nutrileche 2L",
+    "precio": 42.0
+  },
+  {
+    "codigo": "7501020567014",
+    "nombre": "yomi fresa 1l",
+    "precio": 35.0
+  },
+  {
+    "codigo": "7501020567007",
+    "nombre": "yomi vainilla 1l",
+    "precio": 35.0
+  },
+  {
+    "codigo": "7501020566994",
+    "nombre": "yomi choco 1l",
+    "precio": 35.0
+  },
+  {
+    "codigo": "7501020565911",
+    "nombre": "lala deslactosada 1l",
+    "precio": 30.0
+  },
+  {
+    "codigo": "7501020565959",
+    "nombre": "lala semi 1l",
+    "precio": 30.0
+  },
+  {
+    "codigo": "7501020526066",
+    "nombre": "lala fresca 1l",
+    "precio": 28.0
+  },
+  {
+    "codigo": "7501020547047",
+    "nombre": "lala 1/2 galón",
+    "precio": 48.0
+  },
+  {
+    "codigo": "7501020548440",
+    "nombre": "lala proteína 1l ",
+    "precio": 40.0
+  },
+  {
+    "codigo": "7501020562026",
+    "nombre": "crema lala deslac 417",
+    "precio": 45.0
+  },
+  {
+    "codigo": "7501020513134",
+    "nombre": "crema lala 200",
+    "precio": 22.0
+  },
+  {
+    "codigo": "7501020555288",
+    "nombre": "café lala 330",
+    "precio": 20.0
+  },
+  {
+    "codigo": "7501020571226",
+    "nombre": "lala 180",
+    "precio": 11.0
+  },
+  {
+    "codigo": "7501020570861",
+    "nombre": "yomi lala 180 fresa",
+    "precio": 10.0
+  },
+  {
+    "codigo": "7501020570854",
+    "nombre": "yomi lala choco 180",
+    "precio": 10.0
+  },
+  {
+    "codigo": "7501020570878",
+    "nombre": "yomi lala vaini 180",
+    "precio": 10.0
+  },
+  {
+    "codigo": "7501020569285",
+    "nombre": "salchicha lala  ",
+    "precio": 27.0
+  },
+  {
+    "codigo": "7501003110305",
+    "nombre": "mostaza mcormic 220",
+    "precio": 25.0
+  },
+  {
+    "codigo": "7501000912612",
+    "nombre": "nescafe 28",
+    "precio": 35.0
+  },
+  {
+    "codigo": "7506475100779",
+    "nombre": "licuado netle",
+    "precio": 28.0
+  },
+  {
+    "codigo": "7506475116992",
+    "nombre": "licuado nestle moras",
+    "precio": 28.0
+  },
+  {
+    "codigo": "7501020535754",
+    "nombre": "lala fresa 440",
+    "precio": 28.0
+  },
+  {
+    "codigo": "7501020538311",
+    "nombre": "lala chococrisp",
+    "precio": 20.0
+  },
+  {
+    "codigo": "7501020565355",
+    "nombre": "bio 4 lala",
+    "precio": 10.0
+  },
+  {
+    "codigo": "7501064191909",
+    "nombre": "victoria mega 1.2",
+    "precio": 47.0
+  },
+  {
+    "codigo": "7501064101205",
+    "nombre": "corona mega 1.2",
+    "precio": 47.0
+  },
+  {
+    "codigo": "7503023836135",
+    "nombre": "vuala vainilla",
+    "precio": 20.0
+  },
+  {
+    "codigo": "7503023836142",
+    "nombre": "vuala chocolate",
+    "precio": 25.0
+  },
+  {
+    "codigo": "7501055332175",
+    "nombre": "coca 355 pet",
+    "precio": 13.0
+  },
+  {
+    "codigo": "7501064101410",
+    "nombre": "Corona 355 ret",
+    "precio": 20.0
+  },
+  {
+    "codigo": "7501064115400",
+    "nombre": "Victoria 355 ret",
+    "precio": 20.0
+  },
+  {
+    "codigo": "7501000309726",
+    "nombre": "roles 365g",
+    "precio": 42.0
+  },
+  {
+    "codigo": "7503030199995",
+    "nombre": "roles 180g",
+    "precio": 25.0
+  },
+  {
+    "codigo": "7503030374002",
+    "nombre": "roles galss 205",
+    "precio": 25.0
+  },
+  {
+    "codigo": "7500810015803",
+    "nombre": "panque pasas |",
+    "precio": 42.0
+  },
+  {
+    "codigo": "7501000112388",
+    "nombre": "panque gotas 140g",
+    "precio": 22.0
+  },
+  {
+    "codigo": "7501030475521",
+    "nombre": "matecadas vainill",
+    "precio": 32.0
+  },
+  {
+    "codigo": "7500810015810",
+    "nombre": "panque nuez",
+    "precio": 42.0
+  },
+  {
+    "codigo": "7501000132706",
+    "nombre": "conchas 2p",
+    "precio": 20.0
+  },
+  {
+    "codigo": "7501030472698",
+    "nombre": "bimbuñuelos 99g",
+    "precio": 22.0
+  },
+  {
+    "codigo": "7501030474227",
+    "nombre": "donas azucar",
+    "precio": 22.0
+  },
+  {
+    "codigo": "7501030418399",
+    "nombre": "donas espolv",
+    "precio": 22.0
+  },
+  {
+    "codigo": "7501030475514",
+    "nombre": "mantecadas nuez",
+    "precio": 32.0
+  },
+  {
+    "codigo": "7501000112203",
+    "nombre": "colchones",
+    "precio": 16.0
+  },
+  {
+    "codigo": "7501030409854",
+    "nombre": "duo nito",
+    "precio": 28.0
+  },
+  {
+    "codigo": "7501000112784",
+    "nombre": "nito",
+    "precio": 17.0
+  },
+  {
+    "codigo": "7501000112845",
+    "nombre": "rebanadas 55g",
+    "precio": 10.0
+  },
+  {
+    "codigo": "7506475117968",
+    "nombre": "nescafe late caramelo",
+    "precio": 10.0
+  },
+  {
+    "codigo": "7501058629166",
+    "nombre": "nescafe moka",
+    "precio": 10.0
+  },
+  {
+    "codigo": "7501030491668",
+    "nombre": "bombo tostado integral",
+    "precio": 36.0
+  },
+  {
+    "codigo": "7501000111800",
+    "nombre": "bimbo tostado",
+    "precio": 34.0
+  },
+  {
+    "codigo": "7501000111855",
+    "nombre": "bimbo molido",
+    "precio": 28.0
+  },
+  {
+    "codigo": "7501000149100",
+    "nombre": "bimbo molido cruji",
+    "precio": 28.0
+  },
+  {
+    "codigo": "7501030433927",
+    "nombre": "salmas 144g",
+    "precio": 31.0
+  },
+  {
+    "codigo": "7501030486664",
+    "nombre": "tortillinas 22pzs",
+    "precio": 38.0
+  },
+  {
+    "codigo": "7500810036624",
+    "nombre": "tortillinas 15 pzs",
+    "precio": 26.0
+  },
+  {
+    "codigo": "7501000111602",
+    "nombre": "bimbollos 450g",
+    "precio": 52.0
+  },
+  {
+    "codigo": "7501000111503",
+    "nombre": "medias noches 8pzs",
+    "precio": 46.0
+  },
+  {
+    "codigo": "7500810032985",
+    "nombre": "bimbo blanco ch",
+    "precio": 25.0
+  },
+  {
+    "codigo": "7500810032978",
+    "nombre": "bimbo integtral ch",
+    "precio": 28.0
+  },
+  {
+    "codigo": "7501000131440",
+    "nombre": "bimbo cero cero",
+    "precio": 64.0
+  },
+  {
+    "codigo": "7500810029183",
+    "nombre": "bimbo blanco gde",
+    "precio": 49.0
+  },
+  {
+    "codigo": "7500810022061",
+    "nombre": "bimbo integral gde",
+    "precio": 52.0
+  },
+  {
+    "codigo": "7500464333803",
+    "nombre": "vuala choco",
+    "precio": 20.0
+  },
+  {
+    "codigo": "7506192507561",
+    "nombre": "vitaloe 500",
+    "precio": 22.0
+  },
+  {
+    "codigo": "7506192511155",
+    "nombre": "amper mango",
+    "precio": 20.0
+  },
+  {
+    "codigo": "7506192509084",
+    "nombre": "amper kalaka",
+    "precio": 20.0
+  },
+  {
+    "codigo": "7506192510684",
+    "nombre": "vive 100 400ml",
+    "precio": 15.0
+  },
+  {
+    "codigo": "036731106032",
+    "nombre": "gatorade lima 600ml",
+    "precio": 22.0
+  },
+  {
+    "codigo": "036731106018",
+    "nombre": " gatorade naran 600ml",
+    "precio": 22.0
+  },
+  {
+    "codigo": "036731323002",
+    "nombre": "gatorade lima 1l",
+    "precio": 32.0
+  },
+  {
+    "codigo": "036731324009",
+    "nombre": "gatorade uva 1l",
+    "precio": 32.0
+  },
+  {
+    "codigo": "7501125104411",
+    "nombre": "electrolit coco",
+    "precio": 25.0
+  },
+  {
+    "codigo": "7503030374842",
+    "nombre": "maxitubo sponch",
+    "precio": 32.0
+  },
+  {
+    "codigo": "7501030418528",
+    "nombre": " maxitubo trikitrakes",
+    "precio": 32.0
+  },
+  {
+    "codigo": "7501030418559",
+    "nombre": "maxitubo polvorones",
+    "precio": 32.0
+  },
+  {
+    "codigo": "7501030418504",
+    "nombre": "maxitubo principe",
+    "precio": 32.0
+  },
+  {
+    "codigo": "7501030418542",
+    "nombre": "maxitubo canelitas",
+    "precio": 32.0
+  },
+  {
+    "codigo": "7500810011126",
+    "nombre": "principe 126g",
+    "precio": 22.0
+  },
+  {
+    "codigo": "7500810011133",
+    "nombre": "principe avellana",
+    "precio": 22.0
+  },
+  {
+    "codigo": "7500810011140",
+    "nombre": "principe choco bla",
+    "precio": 22.0
+  },
+  {
+    "codigo": "7501000140855",
+    "nombre": "trikitrakes 85g",
+    "precio": 20.0
+  },
+  {
+    "codigo": "7500810028032",
+    "nombre": "polvorones 148g",
+    "precio": 22.0
+  },
+  {
+    "codigo": "7500810022801",
+    "nombre": "canelitas 120g",
+    "precio": 22.0
+  },
+  {
+    "codigo": "7501000156214",
+    "nombre": "submarinos choco",
+    "precio": 20.0
+  },
+  {
+    "codigo": "7501000153282",
+    "nombre": "submarinos vainill",
+    "precio": 20.0
+  },
+  {
+    "codigo": "75002275",
+    "nombre": "chocoroles",
+    "precio": 22.0
+  },
+  {
+    "codigo": "7501000153107",
+    "nombre": "gansito",
+    "precio": 18.0
+  },
+  {
+    "codigo": "7501030426905",
+    "nombre": "pay piña",
+    "precio": 25.0
+  },
+  {
+    "codigo": "7500810014721",
+    "nombre": "barritas fresa",
+    "precio": 16.0
+  },
+  {
+    "codigo": "7500810014738",
+    "nombre": "barritas piña",
+    "precio": 16.0
+  },
+  {
+    "codigo": "7501086494279",
+    "nombre": "cepillo oralb",
+    "precio": 20.0
+  },
+  {
+    "codigo": "7501000913282",
+    "nombre": "cofeemate",
+    "precio": 12.0
+  },
+  {
+    "codigo": "7500810029053",
+    "nombre": "golden nuts ench",
+    "precio": 16.0
+  },
+  {
+    "codigo": "7500810029046",
+    "nombre": "golden nuts sal",
+    "precio": 16.0
+  },
+  {
+    "codigo": "7500810036815",
+    "nombre": "golden nuts pepita",
+    "precio": 20.0
+  },
+  {
+    "codigo": "7500810008881",
+    "nombre": "hot nuts fuego",
+    "precio": 16.0
+  },
+  {
+    "codigo": "7500810027714",
+    "nombre": "kiyakis 120g",
+    "precio": 16.0
+  },
+  {
+    "codigo": "7500810027691",
+    "nombre": "golden nuts ench 110g",
+    "precio": 22.0
+  },
+  {
+    "codigo": "7500810029886",
+    "nombre": "golden nuts fuego 110g",
+    "precio": 22.0
+  },
+  {
+    "codigo": "757528044138",
+    "nombre": "hot nuts fuego 115g",
+    "precio": 22.0
+  },
+  {
+    "codigo": "757528044121",
+    "nombre": "hot nuts 115g",
+    "precio": 22.0
+  },
+  {
+    "codigo": "7501008004715",
+    "nombre": "corn pops",
+    "precio": 27.0
+  },
+  {
+    "codigo": "7501006523218",
+    "nombre": "act2 inf",
+    "precio": 20.0
+  },
+  {
+    "codigo": "7501006512489",
+    "nombre": "act2 queso",
+    "precio": 20.0
+  },
+  {
+    "codigo": "7501006519280",
+    "nombre": "act2 chilim",
+    "precio": 20.0
+  },
+  {
+    "codigo": "7501000612130",
+    "nombre": "cremax ch",
+    "precio": 30.0
+  },
+  {
+    "codigo": "7501000612161",
+    "nombre": "cremax vai",
+    "precio": 30.0
+  },
+  {
+    "codigo": "7500478013944",
+    "nombre": "chokis 180g",
+    "precio": 30.0
+  },
+  {
+    "codigo": "7500478010592",
+    "nombre": "marias 177g",
+    "precio": 18.0
+  },
+  {
+    "codigo": "7501000641482",
+    "nombre": "maravillas",
+    "precio": 20.0
+  },
+  {
+    "codigo": "7500478042401",
+    "nombre": "barras coco",
+    "precio": 20.0
+  },
+  {
+    "codigo": "7501000624683",
+    "nombre": "flor naranjo",
+    "precio": 20.0
+  },
+  {
+    "codigo": "7500478026579",
+    "nombre": "florentinas cajeta",
+    "precio": 20.0
+  },
+  {
+    "codigo": "7500478026562",
+    "nombre": "florentinas fresa",
+    "precio": 20.0
+  },
+  {
+    "codigo": "7500478038794",
+    "nombre": "ricanelas",
+    "precio": 20.0
+  },
+  {
+    "codigo": "7500478022908",
+    "nombre": "cremax fresa 113g",
+    "precio": 20.0
+  },
+  {
+    "codigo": "7500478022892",
+    "nombre": "cremax vain 113g",
+    "precio": 20.0
+  },
+  {
+    "codigo": "7500478021598",
+    "nombre": "giro",
+    "precio": 18.0
+  },
+  {
+    "codigo": "7500478021581",
+    "nombre": "emperador comb",
+    "precio": 20.0
+  },
+  {
+    "codigo": "7500478022502",
+    "nombre": "emperador limon",
+    "precio": 20.0
+  },
+  {
+    "codigo": "7500478022519",
+    "nombre": "emperador vainilla",
+    "precio": 20.0
+  },
+  {
+    "codigo": "7500478021574",
+    "nombre": "emperador noct",
+    "precio": 20.0
+  },
+  {
+    "codigo": "7500478043804",
+    "nombre": "emperador choco",
+    "precio": 20.0
+  },
+  {
+    "codigo": "75001322",
+    "nombre": "marlboro rojo",
+    "precio": 103.0
+  },
+  {
+    "codigo": "75006280",
+    "nombre": "faros 25",
+    "precio": 61.0
+  },
+  {
+    "codigo": "7503040150115",
+    "nombre": "link rojo",
+    "precio": 35.0
+  },
+  {
+    "codigo": "7503040150092",
+    "nombre": "link nazul",
+    "precio": 35.0
+  },
+  {
+    "codigo": "75066413",
+    "nombre": "marlboro crafted 25",
+    "precio": 78.0
+  },
+  {
+    "codigo": "7501055387908",
+    "nombre": "bacardicoca 355ml",
+    "precio": 35.0
+  },
+  {
+    "codigo": "7501020544398",
+    "nombre": "nutrileche deslac",
+    "precio": 23.0
+  },
+  {
+    "codigo": "089826001415",
+    "nombre": "tecate 473ml",
+    "precio": 24.0
+  },
+  {
+    "codigo": "7506339394719",
+    "nombre": "naturella noct",
+    "precio": 24.0
+  },
+  {
+    "codigo": "7500435157964",
+    "nombre": "naturella invisible",
+    "precio": 20.0
+  },
+  {
+    "codigo": "7501943424562",
+    "nombre": "kotex regular",
+    "precio": 20.0
+  },
+  {
+    "codigo": "7500435146678",
+    "nombre": "salvo 215ml",
+    "precio": 17.0
+  },
+  {
+    "codigo": "75045838",
+    "nombre": "axion 280ml",
+    "precio": 22.0
+  },
+  {
+    "codigo": "7503028412587",
+    "nombre": "carta blanca 473ml",
+    "precio": 24.0
+  },
+  {
+    "codigo": "070847035916",
+    "nombre": "monster",
+    "precio": 38.0
+  },
+  {
+    "codigo": "7501055379941",
+    "nombre": "fresca fusion 2l",
+    "precio": 28.0
+  },
+  {
+    "codigo": "7501055333851",
+    "nombre": "valle f 1l",
+    "precio": 31.0
+  },
+  {
+    "codigo": "7501013105537",
+    "nombre": "jumex duraz 413ml",
+    "precio": 22.0
+  },
+  {
+    "codigo": "7501013105551",
+    "nombre": "jumex mgo 413ml",
+    "precio": 22.0
+  },
+  {
+    "codigo": "7501055317875",
+    "nombre": "fuze tea duraz 600",
+    "precio": 22.0
+  },
+  {
+    "codigo": "7501049967062",
+    "nombre": "sol clamato",
+    "precio": 30.0
+  },
+  {
+    "codigo": "7503024416510",
+    "nombre": "heineken 00",
+    "precio": 22.0
+  },
+  {
+    "codigo": "75031053",
+    "nombre": "Marlboro icee",
+    "precio": 103.0
+  },
+  {
+    "codigo": "75068769",
+    "nombre": "Marlboro velvet",
+    "precio": 103.0
+  }
+]

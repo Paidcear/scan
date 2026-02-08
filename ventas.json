@@ -1,0 +1,32 @@
+[
+  {
+    "fecha": "2026-02-01 12:21:30",
+    "items": [
+      {
+        "codigo": "7501055304745",
+        "nombre": "coca 3l no ret",
+        "precio": 44.0,
+        "cantidad": 1.0
+      },
+      {
+        "codigo": "7501055304806",
+        "nombre": "sprite 3l",
+        "precio": 40.0,
+        "cantidad": 1.0
+      },
+      {
+        "codigo": "7501020565911",
+        "nombre": "lala deslactosada 1l",
+        "precio": 30.0,
+        "cantidad": 1.0
+      },
+      {
+        "codigo": "INGRESO",
+        "nombre": "VARIOS",
+        "precio": 16.0,
+        "cantidad": 1
+      }
+    ],
+    "total": 130.0
+  }
+]

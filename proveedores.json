@@ -1,0 +1,16 @@
+[
+  {
+    "nombre": "Coca",
+    "dia": [
+      "Lunes",
+      "Viernes"
+    ]
+  },
+  {
+    "nombre": "cerveza",
+    "dia": [
+      "Miércoles",
+      "Domingo"
+    ]
+  }
+]

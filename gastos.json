@@ -1,0 +1,12 @@
+[
+  {
+    "proveedor": "Coca",
+    "monto": 777.0,
+    "fecha": "2025-07-21"
+  },
+  {
+    "proveedor": "cerveza",
+    "monto": 123.0,
+    "fecha": "2025-07-21"
+  }
+]
